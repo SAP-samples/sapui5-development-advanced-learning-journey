@@ -1,0 +1,16 @@
+{
+  "generator-ui5-library": {
+    "libraryname": "controls",
+    "namespace": "student00.com.sap.training.ux402",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.86.3",
+    "author": "Lydie CASTELLON",
+    "newdir": true,
+    "namespaceURI": "student00/com/sap/training/ux402",
+    "librarynamespace": "student00.com.sap.training.ux402.controls",
+    "librarynamespaceURI": "student00/com/sap/training/ux402/controls",
+    "librarybasepath": "../../../../../../",
+    "frameworklowercase": "sapui5",
+    "setupCompleted": true
+  }
+}
