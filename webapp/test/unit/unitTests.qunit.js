@@ -5,7 +5,8 @@ sap.ui.getCore().attachInit(function () {
 	"use strict";
 
 	sap.ui.require([
-		"student00comsaptrainingux402listdetail/ux402_listdetail/test/unit/AllTests"
+		"student00/com/sap/training/ux402/qunit/ux402_qunit/test/unit/AllTests"
+
 	], function () {
 		QUnit.start();
 	});

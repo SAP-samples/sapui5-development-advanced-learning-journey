@@ -1,25 +1,25 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Wed Dec 21 2022 13:34:00 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Fri Nov 18 2022 13:54:20 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
-|**App Generator Version**<br>1.8.3|
+|**App Generator Version**<br>1.8.1|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>simple|
-|**Service Type**<br>SAP System (ABAP On Premise)|
-|**Service URL**<br>http://s4d.virtual:443/sap/opu/odata/sap/UX_TRAVEL_SRV
-|**Module Name**<br>ux402_listdetail|
-|**Application Title**<br>List-detail App|
-|**Namespace**<br>student00.com.sap.training.ux402.listdetail|
-|**UI5 Theme**<br>sap_fiori_3|
-|**UI5 Version**<br>1.96.11|
+|**Service Type**<br>None|
+|**Service URL**<br>N/A
+|**Module Name**<br>ux402_qunit|
+|**Application Title**<br>Unit Tests|
+|**Namespace**<br>student00.com.sap.training.ux402.qunit|
+|**UI5 Theme**<br>sap_horizon|
+|**UI5 Version**<br>1.102.1|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## ux402_listdetail
+## ux402_qunit
 
-A simple list-detail app.
+A Unit-test Application.
 
 ### Starting the generated app
 
@@ -27,12 +27,6 @@ A simple list-detail app.
 
 ```
     npm start
-```
-
-- It is also possible to run the application using mock data that reflects the OData Service URL supplied during application generation.  In order to run the application with Mock Data, run the following from the generated app root folder:
-
-```
-    npm run start-mock
 ```
 
 #### Pre-requisites:

@@ -5,13 +5,12 @@
 sap.ui.define([
         "sap/ui/core/UIComponent",
         "sap/ui/Device",
-        "student00/com/sap/training/ux402/listdetail/ux402listdetail/model/models",
-        "student00/com/sap/training/ux402/listdetail/ux402listdetail/controller/ListSelector"
+        "student00/com/sap/training/ux402/qunit/ux402qunit/model/models"
     ],
-    function (UIComponent, Device, models, ListSelector) {
+    function (UIComponent, Device, models) {
         "use strict";
 
-        return UIComponent.extend("student00.com.sap.training.ux402.listdetail.ux402listdetail.Component", {
+        return UIComponent.extend("student00.com.sap.training.ux402.qunit.ux402qunit.Component", {
             metadata: {
                 manifest: "json"
             },
@@ -24,9 +23,6 @@ sap.ui.define([
             init: function () {
                 // call the base component's init function
                 UIComponent.prototype.init.apply(this, arguments);
-
-                // instantiation of the listselector
-                this.oListSelector = new ListSelector();
 
                 // enable routing
                 this.getRouter().initialize();

@@ -2,7 +2,7 @@
 
 specVersion: "2.5"
 metadata:
-  name: student00.com.sap.training.ux402.listdetail.ux402listdetail
+  name: student00.com.sap.training.ux402.qunit.ux402qunit
 type: application
 framework:
   name: SAPUI5
@@ -16,7 +16,7 @@ framework:
     - name: sap.ui.generic.app
     - name: sap.ui.table
     - name: sap.ushell
-    - name: themelib_sap_fiori_3
+    - name: themelib_sap_horizon
 server:
   customMiddleware:
     - name: fiori-tools-appreload
@@ -30,20 +30,10 @@ server:
       configuration:
         ignoreCertError: false # If set to true, certificate errors will be ignored. E.g. self-signed certificates will be accepted
         backend:
-          - path: /here
-            url: http://localhost    
-    - name: sap-fe-mockserver
-      beforeMiddleware: csp
-      configuration:
-        mountPath: /
-        services:
-          - urlPath: /here/goes/your/serviceurl
-            metadataPath: ./webapp/localService/metadata.xml
-            mockdataPath: ./webapp/localService/data
-            generateMockData: true
-        annotations: []
+          - path: /sap
+            url: http://localhost
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: student00.com.sap.training.ux402.listdetail.ux402listdetail
+        component: student00.com.sap.training.ux402.qunit.ux402qunit
         ui5Theme: sap_horizon

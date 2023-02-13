@@ -1,20 +1,12 @@
 sap.ui.define(
     [
-      "./BaseController",
-      "sap/ui/model/json/JSONModel"
-
+        "sap/ui/core/mvc/Controller"
     ],
-    function(BaseController, JSONModel) {
+    function(BaseController) {
       "use strict";
   
-      return BaseController.extend("student00.com.sap.training.ux402.listdetail.ux402listdetail.controller.App", {
+      return BaseController.extend("student00.com.sap.training.ux402.qunit.ux402qunit.controller.App", {
         onInit() {
-          var oViewModel = new JSONModel({
-            layout : "OneColumn"
-        });
-
-        this.getView().setModel(oViewModel, "mainView");
-
         }
       });
     }

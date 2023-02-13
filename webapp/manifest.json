@@ -1,7 +1,7 @@
 {
-  "_version": "1.37.0",
+  "_version": "1.42.0",
   "sap.app": {
-    "id": "student00.com.sap.training.ux402.listdetail.ux402listdetail",
+    "id": "student00.com.sap.training.ux402.qunit.ux402qunit",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -12,12 +12,12 @@
     "resources": "resources.json",
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
-      "version": "1.8.3",
-      "toolsId": "1bbf102e-9b2a-44db-b2e7-8c65f538d2b7"
+      "version": "1.8.1",
+      "toolsId": "1e84eaf2-2f5b-4017-bb5d-f6d08adae9c2"
     },
     "dataSources": {
       "mainService": {
-        "uri": "/here/goes/your/serviceurl/",
+        "uri": "/sap/opu/odata/",
         "type": "OData",
         "settings": {
           "annotations": [],
@@ -46,7 +46,7 @@
   "sap.ui5": {
     "flexEnabled": true,
     "dependencies": {
-      "minUI5Version": "1.96.11",
+      "minUI5Version": "1.102.1",
       "libs": {
         "sap.m": {},
         "sap.ui.core": {},
@@ -66,7 +66,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "student00.com.sap.training.ux402.listdetail.ux402listdetail.i18n.i18n"
+          "bundleName": "student00.com.sap.training.ux402.qunit.ux402qunit.i18n.i18n"
         }
       },
       "": {
@@ -87,75 +87,32 @@
         "routerClass": "sap.m.routing.Router",
         "viewType": "XML",
         "async": true,
-        "viewPath": "student00.com.sap.training.ux402.listdetail.ux402listdetail.view",
-        "controlAggregation": "beginColumnPages",
-        "controlId": "layout",
-        "bypassed": {
-            "target": [
-                "masterlist",
-                "notFound"
-            ]
-        }
+        "viewPath": "student00.com.sap.training.ux402.qunit.ux402qunit.view",
+        "controlAggregation": "pages",
+        "controlId": "app",
+        "clearControlAggregation": false
       },
       "routes": [
         {
-          "name": "masterlist",
-          "pattern": "",
-          "titleTarget": "",
-          "greedy": false,
+          "name": "RouteMain",
+          "pattern": ":?query:",
           "target": [
-              "masterlist"
-          ]       
-        },
-        {
-          "name": "carrierdetails",
-          "pattern": "Carriers/{objectId}",
-          "titleTarget": "",
-          "greedy": false,
-          "target": [
-              "masterlist",
-              "carrierdetails"
+            "TargetMain"
           ]
         }
       ],
       "targets": {
-        "masterlist": {
+        "TargetMain": {
           "viewType": "XML",
           "transition": "slide",
-          "ControlAggregation": "beginColumnPages",
-          "viewId": "list",
-          "viewName": "List",
-          "viewLevel": 1
-        },
-        "carrierdetails": {
-          "viewType": "XML",
-          "transition": "slide",
-          "viewLevel": 2,
-          "controlAggregation": "midColumnPages",
-          "viewName": "Detail",
-          "viewId": "carrierdetails"
-        },
-        "notFound": {
-          "viewType": "XML",
-          "transition":"slide",
-          "controlAggregation": "midColumnPages",
-          "clearControlAggregation": true,
-          "viewName": "NotFound",
-          "viewId": "notFound"
-          
-        },
-        "detailObjectNotFound": {
-          "viewType": "XML",
-          "transition":"slide",
-          "controlAggregation": "midColumnPages",
-          "clearControlAggregation": true,
-          "viewName": "DetailObjectNotFound",
-          "viewId": "detailObjectNotFound"
-        }   
+          "clearControlAggregation": false,
+          "viewId": "Main",
+          "viewName": "Main"
+        }
       }
     },
     "rootView": {
-      "viewName": "student00.com.sap.training.ux402.listdetail.ux402listdetail.view.App",
+      "viewName": "student00.com.sap.training.ux402.qunit.ux402qunit.view.App",
       "type": "XML",
       "async": true,
       "id": "App"

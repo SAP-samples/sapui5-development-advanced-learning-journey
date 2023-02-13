@@ -2,7 +2,7 @@
 
 specVersion: "2.5"
 metadata:
-  name: student00.com.sap.training.ux402.listdetail.ux402listdetail
+  name: student00.com.sap.training.ux402.qunit.ux402qunit
 type: application
 server:
   customMiddleware:
@@ -16,7 +16,7 @@ server:
             - /test-resources
           url: https://ui5.sap.com
         backend:
-          - path: /here
+          - path: /sap
             url: http://localhost
     - name: fiori-tools-appreload
       afterMiddleware: compression
@@ -27,5 +27,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: student00.com.sap.training.ux402.listdetail.ux402listdetail
+        component: student00.com.sap.training.ux402.qunit.ux402qunit
         ui5Theme: sap_horizon
