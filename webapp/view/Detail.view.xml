@@ -1,0 +1,56 @@
+<mvc:View controllerName="student00.com.sap.training.ux402.listdetail.ux402listdetail.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:ux="sap.uxap"
+    xmlns:layout="sap.ui.layout">
+   <ux:ObjectPageLayout id="objectPageLayout">
+        <ux:headerTitle>
+          <ux:ObjectPageDynamicHeaderTitle id="objectPageDynamicHeader">
+                <ux:expandedHeading>
+                    <Title
+                    id="title1"
+				    text="{Carrname}"
+				    level="H2"/>
+                </ux:expandedHeading>
+            </ux:ObjectPageDynamicHeaderTitle>
+        </ux:headerTitle>
+        <ux:headerContent>
+            <FlexBox wrap="Wrap" id="flexBox">
+                <Avatar id="avatar" src="sap-icon://flight"/>
+                <layout:VerticalLayout id="verticalLayout1" class="sapUiSmallMarginBeginEnd">
+                    <Label id="label1" text="{Carrid}"/>
+                    <Label id="label2" text="{Url}"/>   
+                </layout:VerticalLayout>        
+            </FlexBox>
+        </ux:headerContent>
+        <ux:sections>
+            <ux:ObjectPageSection id="objectPageSection">
+                <ux:ObjectPageSubSection id="objectPageSubSection1">
+                    <Table id="table" headerText="{i18n>tableHeaderText}" items="{to_Connection}" 
+                            noDataText="{i18n>tableNoDataText}">
+							<columns>
+								<Column id="column1">
+									<Text id="text1" text="{i18n>idColumnText}"/>
+								</Column>
+								<Column id="column2">
+									<Text id="text2" text="{i18n>cityFromColumnText}"/>
+								</Column>
+								<Column id="column3">
+									<Text id="text3" text="{i18n>cityToColumnText}"/>
+								</Column>
+							</columns>
+							<items>
+								<ColumnListItem id="columnListItem">
+									<cells>
+										<Text id="text4" text="{Carrid}"/>
+										<Text id="text5" text="{Cityfrom}"/>
+										<Text id="text6" text="{Cityto}"/>
+									</cells>
+								</ColumnListItem>
+							</items>
+					</Table>                                        
+                </ux:ObjectPageSubSection>
+            </ux:ObjectPageSection>            
+		</ux:sections>
+	</ux:ObjectPageLayout>
+</mvc:View>

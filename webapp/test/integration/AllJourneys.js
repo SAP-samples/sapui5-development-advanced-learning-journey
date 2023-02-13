@@ -7,7 +7,7 @@ sap.ui.define([
 
 	Opa5.extendConfig({
 		arrangements: new Startup(),
-		viewNamespace: "student00.com.sap.training.ux402.fullscreen.ux402fullscreen.view.",
+		viewNamespace: "student00.com.sap.training.ux402.listdetail.ux402listdetail.view.",
 		autoWait: true
 	});
 });

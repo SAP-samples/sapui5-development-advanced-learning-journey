@@ -94,7 +94,7 @@
                 <Property Name="Carrid" Type="Edm.String" Nullable="false" MaxLength="3" sap:display-format="UpperCase" sap:label="Airline" sap:quickinfo="Airline Code"/>
                 <Property Name="Connid" Type="Edm.String" Nullable="false" MaxLength="4" sap:display-format="NonNegative" sap:label="Connection Number" sap:quickinfo="Flight Connection Number"/>
                 <Property Name="Flid" Type="Edm.String" Nullable="false" MaxLength="4" sap:display-format="NonNegative" sap:label="Flight Id" sap:quickinfo="Flight Id"/>
-                <Property Name="Fldate" Type="Edm.DateTime" Nullable="false" Precision="0" sap:display-format="Date" sap:label="Flight Date" sap:quickinfo="Flight date"/>
+				<Property Name="Fldate" Type="Edm.DateTime" Nullable="false" Precision="0" sap:display-format="Date" sap:label="Flight Date" sap:quickinfo="Flight date"/>
                 <Property Name="Seatsmax" Type="Edm.Int32" sap:label="Max. Capacity Econ." sap:quickinfo="Maximum Capacity in Economy Class"/>
                 <Property Name="Seatsocc" Type="Edm.Int32" sap:label="Occupied econ." sap:quickinfo="Occupied seats in economy class"/>
                 <NavigationProperty Name="to_Booking" Relationship="UX_TRAVEL_SRV.assoc_17C757087CA7492F4C0A7A7238490882" FromRole="FromRole_assoc_17C757087CA7492F4C0A7A7238490882" ToRole="ToRole_assoc_17C757087CA7492F4C0A7A7238490882"/>

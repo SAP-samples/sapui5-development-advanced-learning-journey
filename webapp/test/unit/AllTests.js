@@ -1,5 +1,5 @@
 sap.ui.define([
-	"student00comsaptrainingux402fullscreen/ux402_fullscreen/test/unit/controller/Carrier.controller"
+	"student00comsaptrainingux402listdetail/ux402_listdetail/test/unit/controller/List.controller"
 ], function () {
 	"use strict";
 });

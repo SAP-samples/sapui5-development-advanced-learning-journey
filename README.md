@@ -1,25 +1,25 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Thu Nov 10 2022 13:41:58 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Wed Dec 21 2022 13:34:00 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
-|**App Generator Version**<br>1.8.0|
+|**App Generator Version**<br>1.8.3|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>simple|
-|**Service Type**<br>File|
-|**Metadata File**<br>metadata.xml
-|**Module Name**<br>ux402_fullscreen|
-|**Application Title**<br>Full-screen Application|
-|**Namespace**<br>student00.com.sap.training.ux402.fullscreen|
-|**UI5 Theme**<br>sap_horizon|
-|**UI5 Version**<br>1.102.1|
+|**Service Type**<br>SAP System (ABAP On Premise)|
+|**Service URL**<br>http://s4d.virtual:443/sap/opu/odata/sap/UX_TRAVEL_SRV
+|**Module Name**<br>ux402_listdetail|
+|**Application Title**<br>List-detail App|
+|**Namespace**<br>student00.com.sap.training.ux402.listdetail|
+|**UI5 Theme**<br>sap_fiori_3|
+|**UI5 Version**<br>1.96.11|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## ux402_fullscreen
+## ux402_listdetail
 
-A Full-screen Application
+A simple list-detail app.
 
 ### Starting the generated app
 

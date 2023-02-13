@@ -2,7 +2,7 @@
 
 specVersion: "2.5"
 metadata:
-  name: student00.com.sap.training.ux402.fullscreen.ux402fullscreen
+  name: student00.com.sap.training.ux402.listdetail.ux402listdetail
 type: application
 server:
   customMiddleware:
@@ -27,5 +27,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: student00.com.sap.training.ux402.fullscreen.ux402fullscreen
+        component: student00.com.sap.training.ux402.listdetail.ux402listdetail
         ui5Theme: sap_horizon
