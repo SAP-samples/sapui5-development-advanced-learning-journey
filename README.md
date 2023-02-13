@@ -1,25 +1,25 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Fri Nov 18 2022 15:55:11 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Wed Jan 11 2023 12:58:57 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
-|**App Generator Version**<br>1.8.1|
+|**App Generator Version**<br>1.8.3|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A
-|**Module Name**<br>ux402_opa|
-|**Application Title**<br>OPA Tests|
-|**Namespace**<br>student00.com.sap.training.ux402.opa|
+|**Module Name**<br>ux402_repository|
+|**Application Title**<br>Repository-integration|
+|**Namespace**<br>student00.com.sap.training.ux402.repository|
 |**UI5 Theme**<br>sap_horizon|
-|**UI5 Version**<br>1.102.1|
+|**UI5 Version**<br>1.109.3|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## ux402_opa
+## ux402_repository
 
-An OPA-test Application.
+A Fiori application.
 
 ### Starting the generated app
 

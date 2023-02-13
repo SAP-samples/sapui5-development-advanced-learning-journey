@@ -39,8 +39,8 @@ sap.ui.define([
 							"tiles": [{
 								"tileType": "sap.ushell.ui.tile.StaticTile",
 								"properties": {
-									"title": "OPA Tests",
-									"targetURL": "#student00comsaptrainingux402opaux402opa-display"
+									"title": "Repository-integration",
+									"targetURL": "#student00comsaptrainingux402repositoryux402repository-display"
 								}
 							}]
 						}]
@@ -51,18 +51,18 @@ sap.ui.define([
 				"adapter": {
 					"config": {
 						"inbounds": {
-							"student00comsaptrainingux402opaux402opa-display": {
-								"semanticObject": "student00comsaptrainingux402opaux402opa",
+							"student00comsaptrainingux402repositoryux402repository-display": {
+								"semanticObject": "student00comsaptrainingux402repositoryux402repository",
 								"action": "display",
-								"description": "An OPA-test Application.",
-								"title": "OPA Tests",
+								"description": "A Fiori application.",
+								"title": "Repository-integration",
 								"signature": {
 									"parameters": {}
 								},
 								"resolutionResult": {
 									"applicationType": "SAPUI5",
-									"additionalInformation": "SAPUI5.Component=student00.com.sap.training.ux402.opa.ux402opa",
-									"url": sap.ui.require.toUrl("student00/com/sap/training/ux402/opa/ux402opa")
+									"additionalInformation": "SAPUI5.Component=student00.com.sap.training.ux402.repository.ux402repository",
+									"url": sap.ui.require.toUrl("student00/com/sap/training/ux402/repository/ux402repository")
 								}
 							}
 						}

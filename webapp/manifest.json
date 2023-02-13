@@ -1,7 +1,7 @@
 {
-  "_version": "1.42.0",
+  "_version": "1.48.0",
   "sap.app": {
-    "id": "student00.com.sap.training.ux402.opa.ux402opa",
+    "id": "student00.com.sap.training.ux402.repository.ux402repository",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -12,8 +12,8 @@
     "resources": "resources.json",
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
-      "version": "1.8.1",
-      "toolsId": "eaffa1db-9ae2-4977-8892-7d2e67426bab"
+      "version": "1.8.3",
+      "toolsId": "d95a9ccd-bf70-42db-9c0d-2eaba465ef01"
     },
     "dataSources": {
       "mainService": {
@@ -46,7 +46,7 @@
   "sap.ui5": {
     "flexEnabled": true,
     "dependencies": {
-      "minUI5Version": "1.102.1",
+      "minUI5Version": "1.109.3",
       "libs": {
         "sap.m": {},
         "sap.ui.core": {},
@@ -66,7 +66,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "student00.com.sap.training.ux402.opa.ux402opa.i18n.i18n"
+          "bundleName": "student00.com.sap.training.ux402.repository.ux402repository.i18n.i18n"
         }
       },
       "": {
@@ -87,7 +87,7 @@
         "routerClass": "sap.m.routing.Router",
         "viewType": "XML",
         "async": true,
-        "viewPath": "student00.com.sap.training.ux402.opa.ux402opa.view",
+        "viewPath": "student00.com.sap.training.ux402.repository.ux402repository.view",
         "controlAggregation": "pages",
         "controlId": "app",
         "clearControlAggregation": false
@@ -112,7 +112,7 @@
       }
     },
     "rootView": {
-      "viewName": "student00.com.sap.training.ux402.opa.ux402opa.view.App",
+      "viewName": "student00.com.sap.training.ux402.repository.ux402repository.view.App",
       "type": "XML",
       "async": true,
       "id": "App"

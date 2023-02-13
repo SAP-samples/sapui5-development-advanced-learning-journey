@@ -20,22 +20,7 @@ sap.ui.define([
 						},
 						errorMessage: "Did not find the " + sViewName + " view"
 					});
-				},
-
-				iShouldFindAButton: function () {
-                    return this.waitFor({
-                        viewName: sViewName,
-                        id: "helloButton",
-                        success: function (oButton) {
-                            oButton.$().trigger("press");
-                            Opa5.assert.ok(oButton.getId(), "Button with the given ID found");
-
-                        },
-                        errorMessage: "Did not find the hello-Button",
-                        timeout: "3"                      
-                    });
-                }
-
+				}
 			}
 		}
 	});

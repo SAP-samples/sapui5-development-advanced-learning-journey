@@ -1,4 +1,4 @@
-<mvc:View controllerName="student00.com.sap.training.ux402.opa.ux402opa.controller.App"
+<mvc:View controllerName="student00.com.sap.training.ux402.repository.ux402repository.controller.App"
     xmlns:html="http://www.w3.org/1999/xhtml"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">

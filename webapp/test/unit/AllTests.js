@@ -1,5 +1,5 @@
 sap.ui.define([
-	"student00comsaptrainingux402opa/ux402_opa/test/unit/controller/Main.controller"
+	"student00comsaptrainingux402repository/ux402_repository/test/unit/controller/Main.controller"
 ], function () {
 	"use strict";
 });
