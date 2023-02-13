@@ -39,8 +39,8 @@ sap.ui.define([
 							"tiles": [{
 								"tileType": "sap.ushell.ui.tile.StaticTile",
 								"properties": {
-									"title": "Unit Tests",
-									"targetURL": "#student00comsaptrainingux402qunitux402qunit-display"
+									"title": "OPA Tests",
+									"targetURL": "#student00comsaptrainingux402opaux402opa-display"
 								}
 							}]
 						}]
@@ -51,18 +51,18 @@ sap.ui.define([
 				"adapter": {
 					"config": {
 						"inbounds": {
-							"student00comsaptrainingux402qunitux402qunit-display": {
-								"semanticObject": "student00comsaptrainingux402qunitux402qunit",
+							"student00comsaptrainingux402opaux402opa-display": {
+								"semanticObject": "student00comsaptrainingux402opaux402opa",
 								"action": "display",
-								"description": "A Unit-test Application.",
-								"title": "Unit Tests",
+								"description": "An OPA-test Application.",
+								"title": "OPA Tests",
 								"signature": {
 									"parameters": {}
 								},
 								"resolutionResult": {
 									"applicationType": "SAPUI5",
-									"additionalInformation": "SAPUI5.Component=student00.com.sap.training.ux402.qunit.ux402qunit",
-									"url": sap.ui.require.toUrl("student00/com/sap/training/ux402/qunit/ux402qunit")
+									"additionalInformation": "SAPUI5.Component=student00.com.sap.training.ux402.opa.ux402opa",
+									"url": sap.ui.require.toUrl("student00/com/sap/training/ux402/opa/ux402opa")
 								}
 							}
 						}

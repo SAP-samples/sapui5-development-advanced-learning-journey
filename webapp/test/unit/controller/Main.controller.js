@@ -1,8 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"student00/com/sap/training/ux402/qunit/ux402_qunit/controller/Main.controller"
-
+	"student00comsaptrainingux402opa/ux402_opa/controller/Main.controller"
 ], function (Controller) {
 	"use strict";
 

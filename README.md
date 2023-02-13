@@ -1,25 +1,25 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Fri Nov 18 2022 13:54:20 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Fri Nov 18 2022 15:55:11 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
 |**App Generator Version**<br>1.8.1|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A
-|**Module Name**<br>ux402_qunit|
-|**Application Title**<br>Unit Tests|
-|**Namespace**<br>student00.com.sap.training.ux402.qunit|
+|**Module Name**<br>ux402_opa|
+|**Application Title**<br>OPA Tests|
+|**Namespace**<br>student00.com.sap.training.ux402.opa|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.102.1|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## ux402_qunit
+## ux402_opa
 
-A Unit-test Application.
+An OPA-test Application.
 
 ### Starting the generated app
 

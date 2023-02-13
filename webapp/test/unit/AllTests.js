@@ -1,7 +1,5 @@
 sap.ui.define([
-	"student00/com/sap/training/ux402/qunit/ux402_qunit/test/unit/controller/Main.controller",
-    "student00/com/sap/training/ux402/qunit/ux402_qunit/test/unit/model/Formatter"
-
+	"student00comsaptrainingux402opa/ux402_opa/test/unit/controller/Main.controller"
 ], function () {
 	"use strict";
 });

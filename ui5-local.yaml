@@ -2,7 +2,7 @@
 
 specVersion: "2.5"
 metadata:
-  name: student00.com.sap.training.ux402.qunit.ux402qunit
+  name: student00.com.sap.training.ux402.opa.ux402opa
 type: application
 framework:
   name: SAPUI5
@@ -35,5 +35,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: student00.com.sap.training.ux402.qunit.ux402qunit
+        component: student00.com.sap.training.ux402.opa.ux402opa
         ui5Theme: sap_horizon
