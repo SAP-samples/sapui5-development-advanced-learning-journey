@@ -5,7 +5,7 @@ sap.ui.define(
     function(BaseController) {
       "use strict";
   
-      return BaseController.extend("asapui5project.controller.App", {
+      return BaseController.extend("student00.com.sap.training.ux402.fullscreen.ux402fullscreen.controller.App", {
         onInit() {
         }
       });

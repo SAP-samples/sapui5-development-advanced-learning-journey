@@ -39,8 +39,8 @@ sap.ui.define([
 							"tiles": [{
 								"tileType": "sap.ushell.ui.tile.StaticTile",
 								"properties": {
-									"title": "App Title",
-									"targetURL": "#asapui5project-display"
+									"title": "Full-screen Application",
+									"targetURL": "#student00comsaptrainingux402fullscreenux402fullscreen-display"
 								}
 							}]
 						}]
@@ -51,18 +51,18 @@ sap.ui.define([
 				"adapter": {
 					"config": {
 						"inbounds": {
-							"asapui5project-display": {
-								"semanticObject": "asapui5project",
+							"student00comsaptrainingux402fullscreenux402fullscreen-display": {
+								"semanticObject": "student00comsaptrainingux402fullscreenux402fullscreen",
 								"action": "display",
-								"description": "A Fiori application.",
-								"title": "App Title",
+								"description": "A Full-screen Application",
+								"title": "Full-screen Application",
 								"signature": {
 									"parameters": {}
 								},
 								"resolutionResult": {
 									"applicationType": "SAPUI5",
-									"additionalInformation": "SAPUI5.Component=asapui5project",
-									"url": sap.ui.require.toUrl("asapui5project")
+									"additionalInformation": "SAPUI5.Component=student00.com.sap.training.ux402.fullscreen.ux402fullscreen",
+									"url": sap.ui.require.toUrl("student00/com/sap/training/ux402/fullscreen/ux402fullscreen")
 								}
 							}
 						}

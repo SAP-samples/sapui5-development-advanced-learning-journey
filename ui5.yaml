@@ -2,7 +2,7 @@
 
 specVersion: "2.5"
 metadata:
-  name: asapui5project
+  name: student00.com.sap.training.ux402.fullscreen.ux402fullscreen
 type: application
 server:
   customMiddleware:
@@ -15,6 +15,9 @@ server:
             - /resources
             - /test-resources
           url: https://ui5.sap.com
+        backend:
+          - path: /here
+            url: http://localhost
     - name: fiori-tools-appreload
       afterMiddleware: compression
       configuration:
@@ -24,5 +27,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: asapui5project
+        component: student00.com.sap.training.ux402.fullscreen.ux402fullscreen
         ui5Theme: sap_horizon

@@ -2,7 +2,7 @@ sap.ui.define([
 	"sap/ui/test/Opa5"
 ], function (Opa5) {
 	"use strict";
-	var sViewName = "View1";
+	var sViewName = "Carrier";
 	
 	Opa5.createPageObjects({
 		onTheViewPage: {

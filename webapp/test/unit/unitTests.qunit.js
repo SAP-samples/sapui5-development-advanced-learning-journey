@@ -5,7 +5,7 @@ sap.ui.getCore().attachInit(function () {
 	"use strict";
 
 	sap.ui.require([
-		"asapui5project/test/unit/AllTests"
+		"student00comsaptrainingux402fullscreen/ux402_fullscreen/test/unit/AllTests"
 	], function () {
 		QUnit.start();
 	});

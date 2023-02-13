@@ -1,7 +1,7 @@
 {
-  "_version": "1.49.0",
+  "_version": "1.42.0",
   "sap.app": {
-    "id": "asapui5project",
+    "id": "student00.com.sap.training.ux402.fullscreen.ux402fullscreen",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -12,8 +12,19 @@
     "resources": "resources.json",
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
-      "version": "1.8.6",
-      "toolsId": "27dc7fa9-384f-4608-9803-2fe10301bece"
+      "version": "1.8.0",
+      "toolsId": "850cf2d4-23aa-4470-9c8c-6abd331e2371"
+    },
+    "dataSources": {
+      "mainService": {
+        "uri": "/here/goes/your/serviceurl/",
+        "type": "OData",
+        "settings": {
+          "annotations": [],
+          "localUri": "localService/metadata.xml",
+          "odataVersion": "2.0"
+        }
+      }
     }
   },
   "sap.ui": {
@@ -33,9 +44,9 @@
     }
   },
   "sap.ui5": {
-    "flexEnabled": true,
+    "flexEnabled": false,
     "dependencies": {
-      "minUI5Version": "1.110.1",
+      "minUI5Version": "1.102.1",
       "libs": {
         "sap.m": {},
         "sap.ui.core": {},
@@ -55,8 +66,13 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "asapui5project.i18n.i18n"
+          "bundleName": "student00.com.sap.training.ux402.fullscreen.ux402fullscreen.i18n.i18n"
         }
+      },
+      "": {
+        "dataSource": "mainService",
+        "preload": true,
+        "settings": {}
       }
     },
     "resources": {
@@ -71,32 +87,61 @@
         "routerClass": "sap.m.routing.Router",
         "viewType": "XML",
         "async": true,
-        "viewPath": "asapui5project.view",
+        "viewPath": "student00.com.sap.training.ux402.fullscreen.ux402fullscreen.view",
         "controlAggregation": "pages",
         "controlId": "app",
-        "clearControlAggregation": false
+        "clearControlAggregation": false,
+        "transition": "slide",
+        "bypassed": {
+          "target": [
+            "notFound"
+          ]
+        }
       },
       "routes": [
         {
-          "name": "RouteView1",
-          "pattern": ":?query:",
+          "name": "overview",
+          "pattern": "",
+          "titleTarget": "",
+          "greedy": false,
           "target": [
-            "TargetView1"
+            "overview"
+          ]
+        },
+        {
+          "name": "flights",
+          "pattern": "carriers/{carrid}",
+          "titleTarget": "",
+          "greedy": false,
+          "target": [
+            "flights"
           ]
         }
       ],
       "targets": {
-        "TargetView1": {
+        "overview": {
           "viewType": "XML",
           "transition": "slide",
-          "clearControlAggregation": false,
-          "viewId": "View1",
-          "viewName": "View1"
+          "viewId": "Carrier",
+          "viewName": "Carrier",
+          "viewLevel": 1
+        },
+        "flights": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewId": "Flights",
+          "viewName": "Flights",
+          "viewLevel": 2
+        },
+        "notFound": {
+          "viewId": "NotFound",
+          "viewName": "NotFound",
+          "transition": "show"
         }
       }
     },
     "rootView": {
-      "viewName": "asapui5project.view.App",
+      "viewName": "student00.com.sap.training.ux402.fullscreen.ux402fullscreen.view.App",
       "type": "XML",
       "async": true,
       "id": "App"
