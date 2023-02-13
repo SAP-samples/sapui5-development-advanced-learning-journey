@@ -1,18 +1,14 @@
 # Welcome to the Learning Journey "Advanced SAPUI5 Development"
 
 
-Welcome to this repository for the learning journey "Advanced SAP UI5 Development Learning journey" published on [SAP Learning](https://learning.sap.com/learning-journey/). We provide a starting template for the exercises as well as a dedicated branch for each exercise with its final solution.
+Welcome to this repository for the learning journey "Advanced SAP UI5 Development Learning journey" published on [SAP Learning](https://learning.sap.com/learning-journey/). We provide some files for the exercises as well as a dedicated branch for each exercise with its final solution.
 
 ## Requirements
 You can complete each of the exercises using your SAP BTP Free Tier account.
 
 ## Download and Installation
 
-To get started with the first exercise, simply run the following commands in your terminal:
-
-```sh
-git clone https://github.com/SAP-samples/sapui5-development-advanced-learning-journey
-```
+To get started with the first exercise, you need to download the files from the main branch (Download ZIP)
 
 We recommend to follow the instructions in the [learning journey](https://learning.sap.com/learning-journey/advanced-sapui5-development-learning-journey) to get started.
 
