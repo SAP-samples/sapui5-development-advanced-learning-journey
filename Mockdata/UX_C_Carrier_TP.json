@@ -1,0 +1,56 @@
+[
+ {
+   "Carrid": "AA",
+   "Carrname": "American Airlines",
+   "Currcode": "USD",
+   "Url": "http://www.aa.com"
+ },
+ {
+   "Carrid": "AZ",
+   "Carrname": "Alitalia",
+   "Currcode": "EUR",
+   "Url": "http://www.alitalia.it"
+ },
+ {
+   "Carrid": "FJ",
+   "Carrname": "Air Pacific",
+   "Currcode": "USD",
+   "Url": "http://www.airpacific.com"
+ },
+ {
+   "Carrid": "DL",
+   "Carrname": "Delta Airlines",
+   "Currcode": "USD",
+   "Url": "http://www.delta-air.com"
+ },
+ {
+   "Carrid": "LH",
+   "Carrname": "Lufthansa",
+   "Currcode": "EUR",
+   "Url": "http://www.lufthansa.com"
+ },
+ {
+   "Carrid": "JL",
+   "Carrname": "Japan Airlines",
+   "Currcode": "JPY",
+   "Url": "http://www.jal.co.jp"
+ },
+ {
+   "Carrid": "QF",
+   "Carrname": "Qantas Airways",
+   "Currcode": "AUD",
+   "Url": "http://www.qantas.com.au"
+ },
+ {
+   "Carrid": "SQ",
+   "Carrname": "Singapore Airlines",
+   "Currcode": "SGD",
+   "Url": "http://www.singaporeair.com"
+ },
+ {
+   "Carrid": "UA",
+   "Carrname": "United Airlines",
+   "Currcode": "USD",
+   "Url": "http://www.ual.com"
+ }
+]

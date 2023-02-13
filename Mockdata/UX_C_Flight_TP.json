@@ -1,0 +1,2850 @@
+[
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 367
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 365
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 374
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 368
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 373
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 369
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 372
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 31
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 87
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 41
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 54
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 17,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 18
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 1,
+   "Fldate": "/Date(1651881600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 2,
+   "Fldate": "/Date(1654646400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 309
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 3,
+   "Fldate": "/Date(1657411200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 321
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 4,
+   "Fldate": "/Date(1660176000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 5,
+   "Fldate": "/Date(1662940800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 314
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 6,
+   "Fldate": "/Date(1665705600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 313
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 7,
+   "Fldate": "/Date(1668470400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 8,
+   "Fldate": "/Date(1671235200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 314
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 9,
+   "Fldate": "/Date(1674000000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 24
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 10,
+   "Fldate": "/Date(1676764800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 11,
+   "Fldate": "/Date(1679529600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 108
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 12,
+   "Fldate": "/Date(1682294400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 76
+ },
+ {
+   "Carrid": "AA",
+   "Connid": 64,
+   "Flid": 13,
+   "Fldate": "/Date(1685059200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 11
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 118
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 114
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 113
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 113
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 108
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 116
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 115
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 108
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 67
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 24
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 4
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 555,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 120,
+   "Seatsocc": 4
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 1,
+   "Fldate": "/Date(1651622400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 2,
+   "Fldate": "/Date(1654387200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 462
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 3,
+   "Fldate": "/Date(1657152000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 4,
+   "Fldate": "/Date(1659916800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 5,
+   "Fldate": "/Date(1662681600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 6,
+   "Fldate": "/Date(1665446400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 7,
+   "Fldate": "/Date(1668211200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 8,
+   "Fldate": "/Date(1670976000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 9,
+   "Fldate": "/Date(1673740800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 10,
+   "Fldate": "/Date(1676505600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 46
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 11,
+   "Fldate": "/Date(1679270400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 81
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 12,
+   "Fldate": "/Date(1682035200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 69
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 788,
+   "Flid": 13,
+   "Fldate": "/Date(1684800000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 42
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 454
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 449
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 454
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 27
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 195
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 27
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 44
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 789,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 8
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 374
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 373
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 365
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 370
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 374
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 107
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 58
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 90
+ },
+ {
+   "Carrid": "AZ",
+   "Connid": 790,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 1,
+   "Fldate": "/Date(1651536000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 318
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 2,
+   "Fldate": "/Date(1654300800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 3,
+   "Fldate": "/Date(1657065600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 4,
+   "Fldate": "/Date(1659830400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 315
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 5,
+   "Fldate": "/Date(1662595200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 321
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 6,
+   "Fldate": "/Date(1665360000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 7,
+   "Fldate": "/Date(1668124800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 318
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 8,
+   "Fldate": "/Date(1670889600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 321
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 9,
+   "Fldate": "/Date(1673654400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 77
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 10,
+   "Fldate": "/Date(1676419200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 32
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 11,
+   "Fldate": "/Date(1679184000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 12,
+   "Fldate": "/Date(1681948800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 63
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 106,
+   "Flid": 13,
+   "Fldate": "/Date(1684713600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 35
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 1,
+   "Fldate": "/Date(1651536000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 2,
+   "Fldate": "/Date(1654300800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 3,
+   "Fldate": "/Date(1657065600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 241
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 4,
+   "Fldate": "/Date(1659830400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 5,
+   "Fldate": "/Date(1662595200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 249
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 6,
+   "Fldate": "/Date(1665360000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 7,
+   "Fldate": "/Date(1668124800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 8,
+   "Fldate": "/Date(1670889600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 245
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 9,
+   "Fldate": "/Date(1673654400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 150
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 10,
+   "Fldate": "/Date(1676419200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 11
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 11,
+   "Fldate": "/Date(1679184000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 67
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 12,
+   "Fldate": "/Date(1681948800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1699,
+   "Flid": 13,
+   "Fldate": "/Date(1684713600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 8
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 1,
+   "Fldate": "/Date(1651536000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 454
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 2,
+   "Fldate": "/Date(1654300800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 3,
+   "Fldate": "/Date(1657065600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 4,
+   "Fldate": "/Date(1659830400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 5,
+   "Fldate": "/Date(1662595200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 6,
+   "Fldate": "/Date(1665360000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 456
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 7,
+   "Fldate": "/Date(1668124800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 8,
+   "Fldate": "/Date(1670889600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 9,
+   "Fldate": "/Date(1673654400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 27
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 10,
+   "Fldate": "/Date(1676419200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 227
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 11,
+   "Fldate": "/Date(1679184000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 12,
+   "Fldate": "/Date(1681948800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "DL",
+   "Connid": 1984,
+   "Flid": 13,
+   "Fldate": "/Date(1684713600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 53
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 1,
+   "Fldate": "/Date(1651881600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 455
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 2,
+   "Fldate": "/Date(1654646400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 456
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 3,
+   "Fldate": "/Date(1657411200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 455
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 4,
+   "Fldate": "/Date(1660176000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 5,
+   "Fldate": "/Date(1662940800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 6,
+   "Fldate": "/Date(1665705600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 7,
+   "Fldate": "/Date(1668470400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 8,
+   "Fldate": "/Date(1671235200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 9,
+   "Fldate": "/Date(1674000000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 183
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 10,
+   "Fldate": "/Date(1676764800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 68
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 11,
+   "Fldate": "/Date(1679529600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 92
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 12,
+   "Fldate": "/Date(1682294400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 78
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 407,
+   "Flid": 13,
+   "Fldate": "/Date(1685059200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 27
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 1,
+   "Fldate": "/Date(1651968000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 365
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 2,
+   "Fldate": "/Date(1654732800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 368
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 3,
+   "Fldate": "/Date(1657497600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 4,
+   "Fldate": "/Date(1660262400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 374
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 5,
+   "Fldate": "/Date(1663027200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 369
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 6,
+   "Fldate": "/Date(1665792000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 375
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 7,
+   "Fldate": "/Date(1668556800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 8,
+   "Fldate": "/Date(1671321600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 372
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 9,
+   "Fldate": "/Date(1674086400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 78
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 10,
+   "Fldate": "/Date(1676851200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 77
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 11,
+   "Fldate": "/Date(1679616000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 79
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 12,
+   "Fldate": "/Date(1682380800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "JL",
+   "Connid": 408,
+   "Flid": 13,
+   "Fldate": "/Date(1685145600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 19
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 1,
+   "Fldate": "/Date(1651968000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 320
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 2,
+   "Fldate": "/Date(1654732800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 320
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 3,
+   "Fldate": "/Date(1657497600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 313
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 4,
+   "Fldate": "/Date(1660262400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 320
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 5,
+   "Fldate": "/Date(1663027200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 312
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 314
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 7,
+   "Fldate": "/Date(1665792000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 320
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 316
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 9,
+   "Fldate": "/Date(1668556800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 315
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 10,
+   "Fldate": "/Date(1671321600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 11,
+   "Fldate": "/Date(1674086400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 163
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 12,
+   "Fldate": "/Date(1676851200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 74
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 13,
+   "Fldate": "/Date(1679616000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 92
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 14,
+   "Fldate": "/Date(1682380800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 400,
+   "Flid": 15,
+   "Fldate": "/Date(1685145600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 14
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 1,
+   "Fldate": "/Date(1651881600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 250
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 2,
+   "Fldate": "/Date(1654646400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 3,
+   "Fldate": "/Date(1657411200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 246
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 4,
+   "Fldate": "/Date(1660176000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 247
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 5,
+   "Fldate": "/Date(1662940800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 243
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 7,
+   "Fldate": "/Date(1665705600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 9,
+   "Fldate": "/Date(1668470400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 249
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 10,
+   "Fldate": "/Date(1671235200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 247
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 11,
+   "Fldate": "/Date(1674000000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 95
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 12,
+   "Fldate": "/Date(1676764800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 106
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 13,
+   "Fldate": "/Date(1679529600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 100
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 14,
+   "Fldate": "/Date(1682294400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 401,
+   "Flid": 15,
+   "Fldate": "/Date(1685059200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 1,
+   "Fldate": "/Date(1651536000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 2,
+   "Fldate": "/Date(1654300800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 3,
+   "Fldate": "/Date(1657065600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 4,
+   "Fldate": "/Date(1659830400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 5,
+   "Fldate": "/Date(1662595200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 7,
+   "Fldate": "/Date(1665360000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 9,
+   "Fldate": "/Date(1668124800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 10,
+   "Fldate": "/Date(1670889600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 456
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 11,
+   "Fldate": "/Date(1673654400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 53
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 12,
+   "Fldate": "/Date(1676419200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 234
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 13,
+   "Fldate": "/Date(1679184000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 182
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 14,
+   "Fldate": "/Date(1681948800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 80
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 402,
+   "Flid": 15,
+   "Fldate": "/Date(1684713600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 1,
+   "Fldate": "/Date(1651968000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 2,
+   "Fldate": "/Date(1654732800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 3,
+   "Fldate": "/Date(1657497600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 450
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 4,
+   "Fldate": "/Date(1660262400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 455
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 5,
+   "Fldate": "/Date(1663027200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 7,
+   "Fldate": "/Date(1665792000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 9,
+   "Fldate": "/Date(1668556800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 456
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 10,
+   "Fldate": "/Date(1671321600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 11,
+   "Fldate": "/Date(1674086400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 12,
+   "Fldate": "/Date(1676851200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 156
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 13,
+   "Fldate": "/Date(1679616000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 58
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 14,
+   "Fldate": "/Date(1682380800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 94
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2402,
+   "Flid": 15,
+   "Fldate": "/Date(1685145600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 37
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 1,
+   "Fldate": "/Date(1651968000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 128
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 2,
+   "Fldate": "/Date(1654732800000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 124
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 3,
+   "Fldate": "/Date(1657497600000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 127
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 4,
+   "Fldate": "/Date(1660262400000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 120
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 5,
+   "Fldate": "/Date(1663027200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 121
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 125
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 7,
+   "Fldate": "/Date(1665792000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 127
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 124
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 9,
+   "Fldate": "/Date(1668556800000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 121
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 10,
+   "Fldate": "/Date(1671321600000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 118
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 11,
+   "Fldate": "/Date(1674086400000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 61
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 12,
+   "Fldate": "/Date(1676851200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 12
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 13,
+   "Fldate": "/Date(1679616000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 12
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 14,
+   "Fldate": "/Date(1682380800000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 20
+ },
+ {
+   "Carrid": "LH",
+   "Connid": 2407,
+   "Flid": 15,
+   "Fldate": "/Date(1685145600000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 20
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 1,
+   "Fldate": "/Date(1651881600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 308
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 2,
+   "Fldate": "/Date(1654646400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 315
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 3,
+   "Fldate": "/Date(1657411200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 319
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 4,
+   "Fldate": "/Date(1660176000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 314
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 5,
+   "Fldate": "/Date(1662940800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 320
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 6,
+   "Fldate": "/Date(1665705600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 312
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 7,
+   "Fldate": "/Date(1668470400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 317
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 8,
+   "Fldate": "/Date(1671235200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 321
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 9,
+   "Fldate": "/Date(1674000000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 101
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 10,
+   "Fldate": "/Date(1676764800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 48
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 11,
+   "Fldate": "/Date(1679529600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 96
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 12,
+   "Fldate": "/Date(1682294400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 27
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 5,
+   "Flid": 13,
+   "Fldate": "/Date(1685059200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 1
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 245
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 250
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 247
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 5
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 81
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 51
+ },
+ {
+   "Carrid": "QF",
+   "Connid": 6,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 31
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 1,
+   "Fldate": "/Date(1651795200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 2,
+   "Fldate": "/Date(1654560000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 3,
+   "Fldate": "/Date(1657324800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 4,
+   "Fldate": "/Date(1660089600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 466
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 5,
+   "Fldate": "/Date(1662854400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 6,
+   "Fldate": "/Date(1665619200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 7,
+   "Fldate": "/Date(1668384000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 8,
+   "Fldate": "/Date(1671148800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 473
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 9,
+   "Fldate": "/Date(1673913600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 299
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 10,
+   "Fldate": "/Date(1676678400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 28
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 11,
+   "Fldate": "/Date(1679443200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 10
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 12,
+   "Fldate": "/Date(1682208000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 2,
+   "Flid": 13,
+   "Fldate": "/Date(1684972800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 39
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 1,
+   "Fldate": "/Date(1651708800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 2,
+   "Fldate": "/Date(1654473600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 467
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 3,
+   "Fldate": "/Date(1657238400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 4,
+   "Fldate": "/Date(1660003200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 5,
+   "Fldate": "/Date(1662768000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 473
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 6,
+   "Fldate": "/Date(1665532800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 466
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 7,
+   "Fldate": "/Date(1668297600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 469
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 8,
+   "Fldate": "/Date(1671062400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 475
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 9,
+   "Fldate": "/Date(1673827200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 137
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 10,
+   "Fldate": "/Date(1676592000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 132
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 11,
+   "Fldate": "/Date(1679356800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 12,
+   "Fldate": "/Date(1682121600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 39
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 15,
+   "Flid": 13,
+   "Fldate": "/Date(1684886400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 56
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 1,
+   "Fldate": "/Date(1651622400000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 126
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 2,
+   "Fldate": "/Date(1654387200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 130
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 3,
+   "Fldate": "/Date(1657152000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 130
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 4,
+   "Fldate": "/Date(1659916800000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 126
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 5,
+   "Fldate": "/Date(1662681600000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 120
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 6,
+   "Fldate": "/Date(1665446400000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 125
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 7,
+   "Fldate": "/Date(1668211200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 130
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 8,
+   "Fldate": "/Date(1670976000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 130
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 9,
+   "Fldate": "/Date(1673740800000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 12
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 10,
+   "Fldate": "/Date(1676505600000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 11,
+   "Fldate": "/Date(1679270400000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 23
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 12,
+   "Fldate": "/Date(1682035200000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 20
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 158,
+   "Flid": 13,
+   "Fldate": "/Date(1684800000000)/",
+   "Seatsmax": 130,
+   "Seatsocc": 10
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 1,
+   "Fldate": "/Date(1651795200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 327
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 2,
+   "Fldate": "/Date(1654560000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 330
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 3,
+   "Fldate": "/Date(1657324800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 327
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 4,
+   "Fldate": "/Date(1660089600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 324
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 5,
+   "Fldate": "/Date(1662854400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 330
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 6,
+   "Fldate": "/Date(1665619200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 324
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 7,
+   "Fldate": "/Date(1668384000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 330
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 8,
+   "Fldate": "/Date(1671148800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 330
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 9,
+   "Fldate": "/Date(1673913600000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 61
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 10,
+   "Fldate": "/Date(1676678400000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 100
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 11,
+   "Fldate": "/Date(1679443200000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 131
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 12,
+   "Fldate": "/Date(1682208000000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 11
+ },
+ {
+   "Carrid": "SQ",
+   "Connid": 988,
+   "Flid": 13,
+   "Fldate": "/Date(1684972800000)/",
+   "Seatsmax": 330,
+   "Seatsocc": 0
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 1,
+   "Fldate": "/Date(1651795200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 242
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 2,
+   "Fldate": "/Date(1654560000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 3,
+   "Fldate": "/Date(1657324800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 4,
+   "Fldate": "/Date(1660089600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 5,
+   "Fldate": "/Date(1662854400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 251
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 7,
+   "Fldate": "/Date(1665619200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 9,
+   "Fldate": "/Date(1668384000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 252
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 10,
+   "Fldate": "/Date(1671148800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 249
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 11,
+   "Fldate": "/Date(1673913600000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 21
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 12,
+   "Fldate": "/Date(1676678400000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 38
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 13,
+   "Fldate": "/Date(1679443200000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 95
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 14,
+   "Fldate": "/Date(1682208000000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 39
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 941,
+   "Flid": 15,
+   "Fldate": "/Date(1684972800000)/",
+   "Seatsmax": 260,
+   "Seatsocc": 1
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 1,
+   "Fldate": "/Date(1651881600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 2,
+   "Fldate": "/Date(1654646400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 3,
+   "Fldate": "/Date(1657411200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 453
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 4,
+   "Fldate": "/Date(1660176000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 450
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 5,
+   "Fldate": "/Date(1662940800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 453
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 7,
+   "Fldate": "/Date(1665705600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 461
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 455
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 9,
+   "Fldate": "/Date(1668470400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 10,
+   "Fldate": "/Date(1671235200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 11,
+   "Fldate": "/Date(1674000000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 7
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 12,
+   "Fldate": "/Date(1676764800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 72
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 13,
+   "Fldate": "/Date(1679529600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 118
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 14,
+   "Fldate": "/Date(1682294400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 50
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3504,
+   "Flid": 15,
+   "Fldate": "/Date(1685059200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 50
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 1,
+   "Fldate": "/Date(1651622400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 2,
+   "Fldate": "/Date(1654387200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 454
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 3,
+   "Fldate": "/Date(1657152000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 4,
+   "Fldate": "/Date(1659916800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 452
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 5,
+   "Fldate": "/Date(1662681600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 455
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 458
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 7,
+   "Fldate": "/Date(1665446400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 457
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 9,
+   "Fldate": "/Date(1668211200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 459
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 10,
+   "Fldate": "/Date(1670976000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 460
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 11,
+   "Fldate": "/Date(1673740800000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 282
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 12,
+   "Fldate": "/Date(1676505600000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 59
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 13,
+   "Fldate": "/Date(1679270400000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 174
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 14,
+   "Fldate": "/Date(1682035200000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 97
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3516,
+   "Flid": 15,
+   "Fldate": "/Date(1684800000000)/",
+   "Seatsmax": 475,
+   "Seatsocc": 49
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 1,
+   "Fldate": "/Date(1651536000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 2,
+   "Fldate": "/Date(1654300800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 373
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 3,
+   "Fldate": "/Date(1657065600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 373
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 4,
+   "Fldate": "/Date(1659830400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 370
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 5,
+   "Fldate": "/Date(1662595200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 372
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 6,
+   "Fldate": "/Date(1664323200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 7,
+   "Fldate": "/Date(1665360000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 369
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 8,
+   "Fldate": "/Date(1666915200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 371
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 9,
+   "Fldate": "/Date(1668124800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 374
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 10,
+   "Fldate": "/Date(1670889600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 370
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 11,
+   "Fldate": "/Date(1673654400000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 200
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 12,
+   "Fldate": "/Date(1676419200000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 186
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 13,
+   "Fldate": "/Date(1679184000000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 2
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 14,
+   "Fldate": "/Date(1681948800000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 44
+ },
+ {
+   "Carrid": "UA",
+   "Connid": 3517,
+   "Flid": 15,
+   "Fldate": "/Date(1684713600000)/",
+   "Seatsmax": 385,
+   "Seatsocc": 0
+ }
+]
