@@ -1,5 +1,5 @@
 # Welcome to the Learning Journey "Advanced SAPUI5 Development"
-
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sapui5-development-advanced-learning-journey)](https://api.reuse.software/info/github.com/SAP-samples/sapui5-development-advanced-learning-journey)
 
 Welcome to this repository for the learning journey "Advanced SAP UI5 Development Learning journey" published on [SAP Learning](https://learning.sap.com/learning-journey/). We provide some files for the exercises as well as a dedicated branch for each exercise with its final solution.
 
