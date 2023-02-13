@@ -1,0 +1,65 @@
+<mvc:View controllerName="student00.com.sap.training.ux402.fullscreen.ux402fullscreen.controller.Flights" 
+xmlns:mvc="sap.ui.core.mvc" 
+displayBlock="true" 
+xmlns="sap.m" 
+xmlns:l="sap.ui.layout"
+xmlns:cust="student00.com.sap.training.ux402.controls">
+    <Page id="idFlightsPage" navButtonPress="onNavBack" showNavButton="true" title="{Carrname}">
+        <content>
+            <l:VerticalLayout id="verticalLayout">
+                <ObjectHeader id="objectHeader" title="{Carrname}" number="" numberUnit="{Currcode}" titleHref="{Url}">
+                    <attributes>
+                        <ObjectAttribute id="objectAttribute1" text="{Carrid}" />
+                        <ObjectAttribute id="objectAttribute2" text="{Url}" />
+                    </attributes>
+                </ObjectHeader>
+            </l:VerticalLayout>
+            <Table id="idFlights" items="{path: 'to_Flight', sorter: {path: 'Carrid'}}" mode="SingleSelectMaster" growing="true" growingThreshold="10">
+                <headerToolbar>
+                    <Toolbar id="toolbar1">
+                        <Title id="title1" text="Flights" level="H2" />
+                    </Toolbar>
+                </headerToolbar>
+                <columns>
+                    <Column id="column1" width="12em">
+                        <Text id="text1" text="{i18n>carriername}" />
+                    </Column>
+                    <Column id="column2" minScreenWidth="Tablet" demandPopin="true">
+                        <Text id="text2" text="{i18n>flightdate}" />
+                    </Column>
+                    <Column id="column3" minScreenWidth="Tablet" demandPopin="true">
+                        <Text id="text3" text="{i18n>seatmax}" />
+                    </Column>
+                    <Column id="column4" hAlign="Right">
+                        <Text id="text4" text="{i18n>seatocc}" />
+                    </Column>
+                    <Column id="column6" minScreenWidth="Tablet" demandPopin="true" hAlign="Center">
+                        <Text id="text9" text="{i18n>planeInfo}"/>
+                    </Column>  
+                     <Column id="column5" minScreenWidth="Tablet" demandPopin="true" hAlign="Center">
+                        <Text id="text8" text="{i18n>bookaction}"/>             
+                    </Column> 
+                </columns>
+                <items>
+                    <ColumnListItem id="columnListItem1">
+                        <cells>
+                            <ObjectIdentifier id="objectIdentifier1" title="{Carrid}" text="{Carrid}" />
+                            <Text id="text5" text="{path: 'Fldate', type: 'sap.ui.model.type.Date'}" />
+                            <Text id="text6" text="{Seatsmax}" />
+                            <Text id="text7" text="{Seatsocc}" />
+                            <cust:PlaneInfo id="planeInfo1"
+                                        seatsMax="{Seatsmax}"
+                                        seatsOcc="{Seatsocc}"
+                            />
+                            <cust:HoverButton id="hoverButton1" text="{i18n>bookaction}"
+                                allowHover="true"
+                                hoverText="{=${Seatsmax} - ${Seatsocc}}"
+                                hover="onHover"
+                            /> 
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
+    </Page>
+</mvc:View>
