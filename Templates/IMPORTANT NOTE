@@ -1,0 +1,2 @@
+IMPORTANT NOTE : The project files do not include the node_modules folder for file size optimization. 
+Please execute "npm install" once you have imported the project.
